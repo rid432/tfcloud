@@ -1,0 +1,50 @@
+tell about your CICD ==> we have a web application running on java, its a java base application , I enable monitoring.
+There is no CICD if there is no web application the code is deployed to.
+
+A java applicaytion, a temperature looger service
+
+stores the details on AWS dynamo db table,
+
+Application programming interface (API) ==> is a means of communication between a client and the application or communication between services or apps.
+
+Software Development Kit ==> its used to call API, we have SDK in diff languages i.e Java, python.
+
+RESTFUL API ==> one microservice can handle another microservice failure
+
+Microservice ==> advantage is such that if a microservice crash, it doesnt affect all the app but just that microservice 
+
+With Microservice architecture ==> gives developer a way to highly scale and be flexible with app . Also reffered to as loosely coupled.  each service deployed independently communicating via API
+
+We containerize a single microservice 
+
+Content switching is a programmatic redirection of client request traffic from one server, initially selected by load balancing, to another server that is selected based on the header or content of the request.
+
+sudo netstat -tunlp
+
+API ==> are standardize 
+
+ECS cluster
+
+pipeline ..Gitlab 
+
+before the build the pipeline , you need to have a .gitlab-ci.yml
+
+integration test ==> testing the whole code
+
+Day to day activities: 
+
+Morning standups ==> brief meeting on daily activities and "to do" for the new day
+CHeck for assigned ticket ==> in Jira ticketing system (using service now), work on whats assigned to you 
+
+Maybe to create an EC2 instance and automate it , probably using teraform , creating the aws instances using terraform (cloudfront).
+
+work within 2 weeks sprint
+
+
+1) what is my job description 
+2) Is the job or remote or onsite
+3) how many in a team
+$) team culture
+
+
+ 
